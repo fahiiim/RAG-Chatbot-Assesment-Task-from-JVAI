@@ -18,10 +18,9 @@ This notebook lets you interactively explore financial policy PDF documents usin
 
 - Run the first few code cells to automatically install all required Python libraries (`langchain`, `chromadb`, `faiss-cpu`, `sentence-transformers`, `pypdf`, and more).
 - No manual package installation needed!
-- ```bash
+ ```bash
 pip install langchain chromadb faiss-cpu sentence-transformers pypdf PyPDF2 langchain_community
 ```
-
 **3. Upload Your PDF**
 
 - When prompted, upload your own financial policy PDF (any document you want to explore).

@@ -1,4 +1,12 @@
 # RAG-Chatbot-Assesment-Task-from-JVAI
+## What is RAG
+Large Language Models (LLMs) shown state-of-the-art perfomance in Generative AI field but encounter several issues like creating inaccurate or irrelevant content (hallucinations), using outdated information, and operating in ways that are not transparent (blackbox reasoning).
+Retrieval-Augmented Generation (RAG) is a technique to solve these problems by augmenting LLM knowledge with additional domain specific data.
+
+## How RAG Works?
+Here is how the Basic RAG Pipeline looks like:
+<img width="720" height="651" alt="image" src="https://github.com/user-attachments/assets/44e44cfc-42a4-481c-9748-90baeec99ade" />
+
 ## Financial Policy RAG Chatbot
 
 Welcome to the Financial Policy RAG Chatbot!  
